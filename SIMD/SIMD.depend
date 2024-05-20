@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1716126858 source:d:\学习\并行程序设计\simd\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<typeinfo>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<ctime>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1716133570 source:d:\学习\并行程序设计\pthread\main.cpp
+	<iostream>
+	<stdio.h>
+	<typeinfo>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<ctime>
+	<semaphore.h>
+	<pthread.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<windows.h>
+
