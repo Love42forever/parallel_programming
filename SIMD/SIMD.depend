@@ -16,3 +16,20 @@
 	<nmmintrin.h>
 	<immintrin.h>
 
+1716132728 source:d:\学习\并行程序设计\hw\simd\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<typeinfo>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<ctime>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

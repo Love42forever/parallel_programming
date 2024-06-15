@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1718350181 source:d:\学习\并行程序设计\bitonicsort\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<typeinfo>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<ctime>
+	<math.h>
+	<malloc.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+
